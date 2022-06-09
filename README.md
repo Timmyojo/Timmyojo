@@ -1,4 +1,4 @@
-# Hi there, I'm Timothy! 👋
+# Hi, I'm Timothy! 👋
 
 ![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timmyojo&show_icons=true&theme=radical)
 
